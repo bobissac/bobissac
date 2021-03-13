@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+This is demo to check the github feature
+
 <!--
 **bobissac/bobissac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-This is demo to check the github feature
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
